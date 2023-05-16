@@ -7,7 +7,7 @@ public class StudentList
 
     
     public static void main(String[] args) {
-        
+        //hlo this is comment
         Student s1=new Student(sname:"Sehaj",sID:"s1");
         Scanner input=new Scanner(source:System.in);
         Student[] studentList=new Student[3];
