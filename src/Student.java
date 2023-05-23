@@ -17,7 +17,7 @@ public class Student {
         this.sID = sID;
     }
    //this is our 3rd class of software design
-   
+   //hey everyone!
    
 
     public void setSname(String sname) {
