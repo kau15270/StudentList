@@ -3,7 +3,7 @@ package student.list;
 
 import java.util.Scanner;
 
-public class StudentList 
+public class StudentList{
 
     
     public static void main(String[] args) {
